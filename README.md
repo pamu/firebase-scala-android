@@ -1,3 +1,3 @@
-# Scala Android Starter
+# Firebase Scala Android Chat
 
-Scala Android Starter Project
+Firebase Android Chat
