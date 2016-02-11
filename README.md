@@ -1,2 +1,3 @@
-# firebase-scala-android
-Firebase Scala Android Demo
+# Scala Android Starter
+
+Scala Android Starter Project
